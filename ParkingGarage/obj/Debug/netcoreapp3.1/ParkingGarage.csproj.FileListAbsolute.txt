@@ -1,0 +1,13 @@
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.exe
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.deps.json
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.runtimeconfig.json
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.runtimeconfig.dev.json
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.dll
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\bin\Debug\netcoreapp3.1\ParkingGarage.pdb
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.AssemblyInfoInputs.cache
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.AssemblyInfo.cs
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.dll
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.pdb
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.genruntimeconfig.cache
+C:\Users\adavi\source\repos\ParkingGarage\ParkingGarage\obj\Debug\netcoreapp3.1\ParkingGarage.csproj.AssemblyReference.cache
